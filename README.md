@@ -1,5 +1,5 @@
 - <H1>FEELS LUCKY TO SEE YOU HERE💞️</H1>
-- 👋 Hi, I’m Mihika-singh, currently pursuing MCA from KNIT,Sultanpur.👀 I’m a passionate learner who loves to learn new things and technology.🌱 I’m currently into  java web development.
+- 👋 Hi, I’m Mihika-singh, currently pursuing MCA from KNIT,Sultanpur.👀 I’m a passionate learner who loves to learn new things and technology.🌱 I’m currently learning  full stack web development.
 - <h2>TALKING ABOUT MY PERSONAL STUFFS-</h2>
 💞️ I’m looking forward to learn spring MVC or hibernate in java.To perform quality work for the organization to meet their objectives and prove my capabilities 
 and creativity by making the best use of my technical and interpersonal skills.
