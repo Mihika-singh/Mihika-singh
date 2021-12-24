@@ -6,7 +6,7 @@ and creativity by making the best use of my technical and interpersonal skills.
 
 - <H3>📫 How to reach me</H3>
 - EMAIL-ID- mihikasingh1501@gmail.com
-- Resume-  https://docs.google.com/document/d/1VaxNLq9mGWzbxA7jrJ-nXXJl8T3i-AH4/edit?usp=sharing&ouid=109638311661823714776&rtpof=true&sd=true
+- Resume- https://docs.google.com/document/d/1iFn2_pvppnrOwvmjsWmaLgPSAXgLwcJU/edit?usp=sharing&ouid=109638311661823714776&rtpof=true&sd=true
 <!---
 Mihika-singh/Mihika-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
